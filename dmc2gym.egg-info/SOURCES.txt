@@ -9,5 +9,3 @@ dmc2gym.egg-info/SOURCES.txt
 dmc2gym.egg-info/dependency_links.txt
 dmc2gym.egg-info/requires.txt
 dmc2gym.egg-info/top_level.txt
-dmc2gym/__pycache__/__init__.cpython-38.pyc
-dmc2gym/__pycache__/wrappers.cpython-38.pyc
